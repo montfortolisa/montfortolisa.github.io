@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.medyield.psychiatry",
-    "sha256_cert_fingerprints": ["A3:B9:85:BF:C8:42:A9:DF:E2:AF:A5:B3:D8:87:AB:7B:42:23:91:BA:9E:AD:6E:40:4B:E9:B5:2D:B1:4B:92:94"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.medyield.psychiatry",
+      "sha256_cert_fingerprints": [
+        "A3:B9:85:BF:C8:42:A9:DF:E2:AF:A5:B3:D8:87:AB:7B:42:23:91:BA:9E:AD:6E:40:4B:E9:B5:2D:B1:4B:92:94",
+        "3B:4E:AE:83:C5:FC:CE:F9:36:08:04:A7:1B:73:74:93:B2:C6:7C:E0:CD:7C:ED:25:77:F6:1A:2E:07:63:AF:8B",
+        "ED:09:2F:13:B0:2D:E2:2E:A6:1F:E5:6F:A7:AA:D8:27:3E:24:5F:A3:02:07:B9:99:CF:A3:CB:02:8A:01:E7:D2",
+        "68:89:16:C8:E4:5B:AB:8C:49:EE:09:B3:48:72:44:7D:34:22:2F:ED:F4:62:A3:6C:CC:45:43:59:C2:B7:FD:BD"
+      ]
+    }
   }
-}]
+]
