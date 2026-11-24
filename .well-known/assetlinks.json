@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.medyield.psychiatry",
+    "sha256_cert_fingerprints": ["A3:B9:85:BF:C8:42:A9:DF:E2:AF:A5:B3:D8:87:AB:7B:42:23:91:BA:9E:AD:6E:40:4B:E9:B5:2D:B1:4B:92:94"]
+  }
+}]
